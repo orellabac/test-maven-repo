@@ -2,3 +2,5 @@ vscode:
   extensions:
     - tyriar.sort-lines@1.9.0:39TPtnzbLWepVuVCVtlO3g==
     - https://snowstudiobackups.blob.core.windows.net/extensions/CodeStream.codestream-10.6.1.vsix
+    - orellabaccr.snowqm-extension
+    - orellabaccr.snowconvert-extension-pack
