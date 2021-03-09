@@ -1,3 +1,7 @@
+image: orellabac/workspace-full
+tasks:
+  - command: git secrets --install && exit
+ 
 vscode:
   extensions:
     - tyriar.sort-lines@1.9.0:39TPtnzbLWepVuVCVtlO3g==
